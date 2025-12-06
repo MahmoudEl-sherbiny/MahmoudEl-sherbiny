@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Mahmoud Elsherbiny, an AI Engineer and Data Scientist who is passionate about turning complex data into meaningful insights that drive smart business decisions.<br> I’m very detail-oriented, ensuring accuracy and precision in every stage of a project — from data preprocessing and model development to deployment and performance optimization.
+I’m Mahmoud Elsherbiny, an AI Engineer and Data Scientist who is passionate about turning complex data into meaningful insights that drive smart business decisions.I’m very detail-oriented, ensuring accuracy and precision in every stage of a project — from data preprocessing and model development to deployment and performance optimization.
 
 
 ## 🌐 Socials:
